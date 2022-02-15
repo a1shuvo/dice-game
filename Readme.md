@@ -1,6 +1,6 @@
 # Dice Game
 > A fun project to learn basic HTML DOM manipulation using JavaScript.
-> [Live Demo]()
+- [Live Demo](https://a1shuvo-dice-game.netlify.app)
 
 ## Technologies Used
 - HTML
